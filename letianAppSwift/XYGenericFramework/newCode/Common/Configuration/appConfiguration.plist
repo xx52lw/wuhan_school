@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultControllerBgColor</key>
+	<string>#EEECEC</string>
+	<key>featureImageCount</key>
+	<string>3</string>
+	<key>tabbarColor</key>
+	<string>#F2F2F2</string>
+	<key>tabbarTextColor</key>
+	<string>#999999</string>
+	<key>tabbarSelectedTextColor</key>
+	<string>#1D88DA</string>
+	<key>tabbarTextFont</key>
+	<string>10</string>
+	<key>tabbarTopLineColor</key>
+	<string>#f1f1f1</string>
+	<key>navbgColor</key>
+	<string>#028FF2</string>
+	<key>navBottomLineColor</key>
+	<string></string>
+	<key>navTitleColor</key>
+	<string>#ffffff</string>
+	<key>navTitleFont</key>
+	<string>16</string>
+</dict>
+</plist>
